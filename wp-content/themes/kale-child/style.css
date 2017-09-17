@@ -1,0 +1,34 @@
+/*
+Theme Name: Kale Child
+Theme URI: https://www.lyrathemes.com/kale/
+Description: branch of kale
+Author: LyraThemes
+Author URI: https://www.lyrathemes.com/
+Template: kale
+Version: 1.2.4
+*/
+
+@import url("../kale/style.css");
+
+/*HOMEPAGE */
+#caption-order-online{
+  border-radius: 0px;
+  background-color: #2d2d2d;
+  border-color: #2d2d2d;
+  color: #fff;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+/* FOOTER */
+.footer{border:0;border-top:1px solid #000;border-bottom:1px solid #000;background:transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;}
+.footer {
+    padding: 10px 0 10px;
+}
+/* ABOUT */
+.ind-bio{margin-bottom:2vh;}
+.ind-bio img{max-width: 100%;}
+
+/*HOURS AND LOCATION*/
+#hours-location{margin-bottom:2vh;}
+#hours-location img{width: 100%;}
